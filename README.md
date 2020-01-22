@@ -1,4 +1,4 @@
-# IOS-Statick-Analysis
+# IOS-Static-Analysis
 
 Reference : https://www.slideshare.net/securitylearnwordpress/hacking-and-securing-ios-applications
 
